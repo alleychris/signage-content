@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "slideIntervalMs": 10000,
+  "shopify": {
+    "preOwnedTag": "pre-owned",
+    "featuredNewTag": "signage-featured"
+  },
+  "branding": {
+    "tagline": "Apple Authorized Service Provider"
+  },
+  "services": {
+    "mac": [
+      { "name": "Mac Check-In", "price": "$69.95", "note": "Free for any Mac with an Apple Warranty" },
+      { "name": "Data Migration", "price": "$49.95", "note": "Free with purchase of a new Mac" },
+      { "name": "Data Backup", "price": "$99.95", "note": "Free with purchase of any drive" },
+      { "name": "Data Recovery", "price": "$299.95" },
+      { "name": "Mac Setup", "price": "$49.95" },
+      { "name": "Malware Scan & Removal", "price": "$49.95" },
+      { "name": "macOS Update or Reinstall", "price": "$69.95" }
+    ],
+    "ios": [
+      { "name": "iPhone or iPad Check-In", "price": "$29.95", "note": "Free for any device with an Apple Warranty" },
+      { "name": "Data Migration", "price": "$29.95", "note": "Free with purchase of a new iPad" },
+      { "name": "iPhone Setup", "price": "$49.95" },
+      { "name": "iOS/iPadOS Update or Restore", "price": "$29.95" }
+    ]
+  },
+  "slides": [
+    {
+      "type": "services",
+      "target": "both",
+      "durationMs": 14000
+    },
+    {
+      "type": "turnaround",
+      "target": "both",
+      "items": [
+        { "label": "Mac", "value": "3–5 Days", "note": "most repairs" },
+        { "label": "iPhone", "value": "1–2 Hours", "note": "most repairs" },
+        { "label": "iPad", "value": "1–2 Days", "note": "most repairs" },
+        { "label": "Headphones", "value": "2–3 Days", "note": "most repairs" }
+      ],
+      "subtitle": "Typical turnaround. Some repairs need ordered parts or mail-in service — we'll always give you an estimate first.",
+      "durationMs": 8000
+    },
+    {
+      "type": "featured",
+      "target": "both",
+      "layout": "deal",
+      "badge": "Deal of the Day",
+      "productHandle": "airpods-pro-3rd-gen",
+      "hideWhenOutOfStock": true,
+      "tagline": "Sound, reinvented.",
+      "features": [
+        { "icon": "noise", "text": "Up to 2x more Active Noise Cancellation" },
+        { "icon": "audio", "text": "Adaptive Audio and Transparency mode" },
+        { "icon": "conversation", "text": "Conversation Awareness" },
+        { "icon": "spatial", "text": "Personalized Spatial Audio with head tracking" },
+        { "icon": "hearing", "text": "Hearing Test, Hearing Aid & Protection" },
+        { "icon": "water", "text": "Dust, sweat, and water resistant (IP54)" },
+        { "icon": "case", "text": "USB-C charging case with Find My speaker" },
+        { "icon": "battery", "text": "Up to 30 hours total with the charging case" },
+        { "icon": "voice", "text": "Voice Isolation and Siri Interactions" },
+        { "icon": "switching", "text": "Automatic Switching between devices" }
+      ],
+      "durationMs": 12000
+    },
+    {
+      "type": "featured",
+      "target": "both",
+      "layout": "light",
+      "badge": "Featured",
+      "productHandle": "airpods-4",
+      "hideWhenOutOfStock": true,
+      "durationMs": 11000
+    },
+    {
+      "type": "comparison",
+      "target": "both",
+      "heading": "Which iPad is right for you?",
+      "columns": [
+        {
+          "productHandle": "ipad-9th-gen",
+          "tagline": "Great for the essentials",
+          "rows": ["A13 Bionic", "10.2” Liquid Retina", "Apple Pencil (1st gen)", "Lightning"]
+        },
+        {
+          "productHandle": "ipad-air-5th-gen",
+          "tagline": "The all-rounder",
+          "flag": "Most Popular",
+          "rows": ["M1 chip", "10.9” Liquid Retina", "Apple Pencil (2nd gen)", "USB-C"]
+        },
+        {
+          "productHandle": "ipad-pro-11in-4th-gen",
+          "tagline": "Built for pros",
+          "rows": ["M2 chip", "11” ProMotion 120Hz", "Apple Pencil hover", "Thunderbolt / USB-C"]
+        }
+      ],
+      "durationMs": 12000
+    },
+    {
+      "type": "promo",
+      "target": "both",
+      "layout": "split",
+      "label": "Trade-In",
+      "title": "Trade In & Save",
+      "body": "Get credit toward a new Mac or iPad. Every trade-in starts with a free diagnostic at our Fishers store — no appointment needed.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0583/1317/9306/files/tradein-hero.png?v=1773416028",
+      "highlights": [
+        "MacBook up to $685",
+        "Desktop Mac up to $975",
+        "iPad up to $670",
+        "$50 min on Macs · $25 on iPad"
+      ],
+      "durationMs": 10000
+    }
+  ]
+}

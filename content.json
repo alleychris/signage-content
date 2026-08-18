@@ -1,5 +1,5 @@
 {
-  "version": "20260818011310",
+  "version": "20260818013537",
   "slideIntervalMs": 30000,
   "shopify": {
     "preOwnedTag": "pre-owned",
@@ -11,18 +11,23 @@
   "services": {
     "mac": [
       { "name": "Mac Check-In", "price": "$69.95", "note": "Free for any Mac with an Apple Warranty" },
-      { "name": "Data Migration", "price": "$49.95", "note": "Free with purchase of a new Mac" },
+      { "name": "Data Migration", "price": "$49.95" },
       { "name": "Data Backup", "price": "$99.95", "note": "Free with purchase of any drive" },
-      { "name": "Data Recovery", "price": "$299.95" },
-      { "name": "Mac Setup", "price": "$49.95" },
+      { "name": "Data Recovery", "price": "$299.95", "note": "Includes $99.95 attempt fee" },
+      { "name": "Guided Mac Setup", "price": "$69.95", "note": "One-on-one Mac setup with an Xpert" },
       { "name": "Malware Scan & Removal", "price": "$49.95" },
-      { "name": "macOS Update or Reinstall", "price": "$69.95" }
+      { "name": "macOS Update or Reinstall", "price": "$69.95" },
+      { "name": "Front Counter Support", "price": "$14.95", "note": "Per quarter-hour · first 5 minutes on us" }
     ],
     "ios": [
       { "name": "iPhone or iPad Check-In", "price": "$29.95", "note": "Free for any device with an Apple Warranty" },
-      { "name": "Data Migration", "price": "$29.95", "note": "Free with purchase of a new iPad" },
-      { "name": "iPhone Setup", "price": "$49.95" },
-      { "name": "iOS/iPadOS Update or Restore", "price": "$29.95" }
+      { "name": "Data Migration", "price": "$29.95" },
+      { "name": "Data Recovery", "price": "$299.95", "note": "Includes $99.95 attempt fee" },
+      { "name": "Guided iPhone/iPad Setup", "price": "$49.95", "note": "Post-repair setup just $29.95" },
+      { "name": "iOS/iPadOS Update or Restore", "price": "$29.95" },
+      { "name": "Charge Port Cleaning", "price": "$9.95", "note": "For cleanings that take 5 minutes or less" },
+      { "name": "Charge Port Debris Removal", "price": "$29.95", "note": "For debris needing more than a quick clean" },
+      { "name": "Front Counter Support", "price": "$14.95", "note": "Per quarter-hour · first 5 minutes on us" }
     ]
   },
   "slides": [

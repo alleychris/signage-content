@@ -1,5 +1,5 @@
 {
-  "version": "20260817234213",
+  "version": "20260818000620",
   "slideIntervalMs": 10000,
   "shopify": {
     "preOwnedTag": "pre-owned",
@@ -66,15 +66,6 @@
       "durationMs": 12000
     },
     {
-      "type": "featured",
-      "target": "both",
-      "layout": "light",
-      "badge": "Featured",
-      "productHandle": "airpods-4",
-      "hideWhenOutOfStock": true,
-      "durationMs": 11000
-    },
-    {
       "type": "comparison",
       "target": "both",
       "heading": "Which iPad is right for you?",
@@ -82,24 +73,44 @@
         {
           "productHandle": "ipad-a16",
           "title": "iPad",
-          "tagline": "Great for the essentials",
-          "rows": ["A16 chip", "11” Liquid Retina", "Apple Pencil (USB-C)", "USB-C"]
+          "tagline": "The everyday iPad",
+          "rows": ["A16 chip", "11” Liquid Retina", "128GB – 512GB", "Apple Pencil (USB-C)", "USB-C"],
+          "bestFor": "Everyday essentials",
+          "points": [
+            "Browsing, video, email & notes",
+            "A great first iPad — or the family iPad",
+            "Apple Pencil (USB-C) for notes & sketches"
+          ]
         },
         {
           "productHandle": "11-inch-ipad-air-m4",
           "title": "iPad Air",
-          "tagline": "The all-rounder",
+          "tagline": "The sweet spot",
           "flag": "Most Popular",
-          "rows": ["M4 chip", "11” & 13” Liquid Retina", "Apple Pencil Pro", "USB-C"]
+          "rows": ["M4 chip", "11” & 13” Liquid Retina", "128GB – 1TB", "Apple Pencil Pro", "USB-C"],
+          "bestFor": "Work, school & creativity",
+          "points": [
+            "M4 power that flies through anything",
+            "Laminated P3 display made for creators",
+            "Apple Pencil Pro + Magic Keyboard ready",
+            "The most iPad for your money"
+          ]
         },
         {
           "productHandle": "11-inch-ipad-pro-m5-with-standard-display",
           "title": "iPad Pro",
-          "tagline": "Built for pros",
-          "rows": ["M5 chip", "11” & 13” Ultra Retina XDR", "Apple Pencil Pro", "Thunderbolt / USB-C", "Nano-texture glass option"]
+          "tagline": "The ultimate",
+          "rows": ["M5 chip", "11” & 13” Ultra Retina XDR", "256GB – 2TB", "Apple Pencil Pro", "Thunderbolt / USB-C", "Nano-texture option"],
+          "bestFor": "Pros & power users",
+          "points": [
+            "The fastest iPad ever made",
+            "Ultra Retina XDR with 120Hz ProMotion",
+            "Thunderbolt speed + Face ID",
+            "Nano-texture glass option for glare-free work"
+          ]
         }
       ],
-      "durationMs": 12000
+      "durationMs": 15000
     },
     {
       "type": "promo",

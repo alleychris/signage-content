@@ -1,5 +1,5 @@
 {
-  "version": "20260818013537",
+  "version": "20260818015631",
   "slideIntervalMs": 30000,
   "shopify": {
     "preOwnedTag": "pre-owned",
@@ -12,11 +12,11 @@
     "mac": [
       { "name": "Mac Check-In", "price": "$69.95", "note": "Free for any Mac with an Apple Warranty" },
       { "name": "Data Migration", "price": "$49.95" },
-      { "name": "Data Backup", "price": "$99.95", "note": "Free with purchase of any drive" },
       { "name": "Data Recovery", "price": "$299.95", "note": "Includes $99.95 attempt fee" },
       { "name": "Guided Mac Setup", "price": "$69.95", "note": "One-on-one Mac setup with an Xpert" },
-      { "name": "Malware Scan & Removal", "price": "$49.95" },
       { "name": "macOS Update or Reinstall", "price": "$69.95" },
+      { "name": "Malware Scan & Removal", "price": "$49.95" },
+      { "name": "Data Backup", "price": "$99.95", "note": "Free with purchase of any drive" },
       { "name": "Front Counter Support", "price": "$14.95", "note": "Per quarter-hour · first 5 minutes on us" }
     ],
     "ios": [

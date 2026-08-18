@@ -1,5 +1,5 @@
 {
-  "version": "20260818003605",
+  "version": "20260818004350",
   "slideIntervalMs": 10000,
   "shopify": {
     "preOwnedTag": "pre-owned",
@@ -35,10 +35,10 @@
       "type": "turnaround",
       "target": "both",
       "items": [
-        { "label": "Mac", "value": "4–6 Days", "note": "most repairs" },
-        { "label": "iPhone", "value": "3–5 Hours", "note": "most repairs" },
-        { "label": "iPad", "value": "3–6 Days", "note": "most repairs" },
-        { "label": "Headphones", "value": "1–3 Days", "note": "most repairs" }
+        { "label": "Mac", "value": "4-6 Days", "note": "most repairs" },
+        { "label": "iPhone", "value": "3-5 Hours", "note": "most repairs" },
+        { "label": "iPad", "value": "3-6 Days", "note": "most repairs" },
+        { "label": "Headphones", "value": "1-3 Days", "note": "most repairs" }
       ],
       "subtitle": "Typical turnaround. Some repairs need ordered parts or mail-in service — we'll always give you an estimate first.",
       "durationMs": 8000

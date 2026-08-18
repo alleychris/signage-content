@@ -1,5 +1,5 @@
 {
-  "version": "20260817231332",
+  "version": "20260817234213",
   "slideIntervalMs": 10000,
   "shopify": {
     "preOwnedTag": "pre-owned",
@@ -81,17 +81,20 @@
       "columns": [
         {
           "productHandle": "ipad-a16",
+          "title": "iPad",
           "tagline": "Great for the essentials",
           "rows": ["A16 chip", "11” Liquid Retina", "Apple Pencil (USB-C)", "USB-C"]
         },
         {
           "productHandle": "11-inch-ipad-air-m4",
+          "title": "iPad Air",
           "tagline": "The all-rounder",
           "flag": "Most Popular",
           "rows": ["M4 chip", "11” & 13” Liquid Retina", "Apple Pencil Pro", "USB-C"]
         },
         {
           "productHandle": "11-inch-ipad-pro-m5-with-standard-display",
+          "title": "iPad Pro",
           "tagline": "Built for pros",
           "rows": ["M5 chip", "11” & 13” Ultra Retina XDR", "Apple Pencil Pro", "Thunderbolt / USB-C", "Nano-texture glass option"]
         }

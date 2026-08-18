@@ -1,6 +1,6 @@
 {
-  "version": "20260818004350",
-  "slideIntervalMs": 10000,
+  "version": "20260818004830",
+  "slideIntervalMs": 30000,
   "shopify": {
     "preOwnedTag": "pre-owned",
     "featuredNewTag": "signage-featured"
@@ -28,8 +28,7 @@
   "slides": [
     {
       "type": "services",
-      "target": "both",
-      "durationMs": 14000
+      "target": "both"
     },
     {
       "type": "turnaround",
@@ -40,8 +39,7 @@
         { "label": "iPad", "value": "3-6 Days", "note": "most repairs" },
         { "label": "Headphones", "value": "1-3 Days", "note": "most repairs" }
       ],
-      "subtitle": "Typical turnaround. Some repairs need ordered parts or mail-in service — we'll always give you an estimate first.",
-      "durationMs": 8000
+      "subtitle": "Typical turnaround. Some repairs need ordered parts or mail-in service — we'll always give you an estimate first."
     },
     {
       "type": "featured",
@@ -62,8 +60,7 @@
         { "icon": "battery", "text": "Up to 30 hours total with the charging case" },
         { "icon": "voice", "text": "Voice Isolation and Siri Interactions" },
         { "icon": "switching", "text": "Automatic Switching between devices" }
-      ],
-      "durationMs": 12000
+      ]
     },
     {
       "type": "comparison",
@@ -74,7 +71,7 @@
           "productHandle": "ipad-a16",
           "title": "iPad",
           "tagline": "The everyday iPad",
-          "rows": ["A16 chip", "11” Liquid Retina", "128GB – 512GB", "Apple Pencil (USB-C)", "USB-C"],
+          "rows": ["A16 chip", "11” Liquid Retina", "128GB - 512GB", "Apple Pencil (USB-C)", "USB-C"],
           "bestFor": "Everyday & essentials",
           "points": [
             "Everything you do every day",
@@ -88,25 +85,25 @@
           "title": "iPad Air",
           "tagline": "The sweet spot",
           "flag": "Most Popular",
-          "rows": ["M4 chip", "11” & 13” Liquid Retina", "128GB – 1TB", "Apple Pencil Pro", "USB-C"],
+          "rows": ["M4 chip", "11” & 13” Liquid Retina", "128GB - 1TB", "Apple Pencil Pro", "USB-C"],
           "bestFor": "Best for most people",
           "points": [
             "Almost the Pro, for hundreds less",
             "Stays fast for years to come",
             "Turns into a laptop when needed",
-            "Draw and write like real paper"
+            "Draw and take notes with Apple Pencil"
           ]
         },
         {
           "productHandle": "11-inch-ipad-pro-m5-with-standard-display",
           "title": "iPad Pro",
           "tagline": "The ultimate iPad",
-          "rows": ["M5 chip", "11” & 13” Ultra Retina XDR", "256GB – 2TB", "Apple Pencil Pro", "Thunderbolt / USB-C", "Nano-texture option"],
-          "bestFor": "For creators & pros",
+          "rows": ["M5 chip", "11” & 13” Ultra Retina XDR", "256GB - 2TB", "Apple Pencil Pro", "Thunderbolt / USB-C", "Nano-texture option"],
+          "bestFor": "For anyone who wants the best",
           "points": [
-            "The best screen Apple makes",
-            "Edit big video without waiting",
-            "A creative studio in your bag",
+            "The best screen on any iPad",
+            "The latest and greatest, period",
+            "Powerful enough for anything you do",
             "Movie nights in true-to-life color"
           ]
         }
@@ -127,8 +124,7 @@
         "Desktop Mac up to $975",
         "iPad up to $670",
         "$50 min on Macs · $25 on iPad"
-      ],
-      "durationMs": 10000
+      ]
     }
   ]
 }

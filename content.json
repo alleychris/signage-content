@@ -1,5 +1,5 @@
 {
-  "version": "20260818000620",
+  "version": "20260818003042",
   "slideIntervalMs": 10000,
   "shopify": {
     "preOwnedTag": "pre-owned",
@@ -75,11 +75,12 @@
           "title": "iPad",
           "tagline": "The everyday iPad",
           "rows": ["A16 chip", "11” Liquid Retina", "128GB – 512GB", "Apple Pencil (USB-C)", "USB-C"],
-          "bestFor": "Everyday essentials",
+          "bestFor": "Everyday & essentials",
           "points": [
-            "Browsing, video, email & notes",
-            "A great first iPad — or the family iPad",
-            "Apple Pencil (USB-C) for notes & sketches"
+            "Everything you do every day",
+            "The easy first iPad",
+            "Browse, stream, and read for hours",
+            "Great for homework and video calls"
           ]
         },
         {
@@ -88,29 +89,30 @@
           "tagline": "The sweet spot",
           "flag": "Most Popular",
           "rows": ["M4 chip", "11” & 13” Liquid Retina", "128GB – 1TB", "Apple Pencil Pro", "USB-C"],
-          "bestFor": "Work, school & creativity",
+          "bestFor": "Best for most people",
           "points": [
-            "M4 power that flies through anything",
-            "Laminated P3 display made for creators",
-            "Apple Pencil Pro + Magic Keyboard ready",
-            "The most iPad for your money"
+            "Almost the Pro, for hundreds less",
+            "Stays fast for years to come",
+            "Turns into a laptop when needed",
+            "Draw and write like real paper"
           ]
         },
         {
           "productHandle": "11-inch-ipad-pro-m5-with-standard-display",
           "title": "iPad Pro",
-          "tagline": "The ultimate",
+          "tagline": "The ultimate iPad",
           "rows": ["M5 chip", "11” & 13” Ultra Retina XDR", "256GB – 2TB", "Apple Pencil Pro", "Thunderbolt / USB-C", "Nano-texture option"],
-          "bestFor": "Pros & power users",
+          "bestFor": "For creators & pros",
           "points": [
-            "The fastest iPad ever made",
-            "Ultra Retina XDR with 120Hz ProMotion",
-            "Thunderbolt speed + Face ID",
-            "Nano-texture glass option for glare-free work"
+            "The best screen Apple makes",
+            "Edit big video without waiting",
+            "A creative studio in your bag",
+            "Movie nights in true-to-life color"
           ]
         }
       ],
-      "durationMs": 15000
+      "phaseMs": 30000,
+      "durationMs": 61000
     },
     {
       "type": "promo",

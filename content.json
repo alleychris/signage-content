@@ -1,5 +1,5 @@
 {
-  "version": "20260818015631",
+  "version": "20260818022106",
   "slideIntervalMs": 30000,
   "shopify": {
     "preOwnedTag": "pre-owned",
@@ -93,8 +93,8 @@
           "rows": ["M4 chip", "11” & 13” Liquid Retina", "128GB - 1TB", "Apple Pencil Pro", "USB-C"],
           "bestFor": "Best for most people",
           "points": [
-            "Almost the Pro, for hundreds less",
-            "Everyday screen, Pro-level power",
+            "Pro-level performance, for hundreds less",
+            "The everyday iPad, supercharged",
             "Stays fast for years to come",
             "Turns into a laptop when needed",
             "Draw and take notes with Apple Pencil"

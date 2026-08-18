@@ -1,5 +1,5 @@
 {
-  "version": "20260604160749",
+  "version": "20260817231332",
   "slideIntervalMs": 10000,
   "shopify": {
     "preOwnedTag": "pre-owned",
@@ -80,20 +80,20 @@
       "heading": "Which iPad is right for you?",
       "columns": [
         {
-          "productHandle": "ipad-9th-gen",
+          "productHandle": "ipad-a16",
           "tagline": "Great for the essentials",
-          "rows": ["A13 Bionic", "10.2” Liquid Retina", "Apple Pencil (1st gen)", "Lightning"]
+          "rows": ["A16 chip", "11” Liquid Retina", "Apple Pencil (USB-C)", "USB-C"]
         },
         {
-          "productHandle": "ipad-air-5th-gen",
+          "productHandle": "11-inch-ipad-air-m4",
           "tagline": "The all-rounder",
           "flag": "Most Popular",
-          "rows": ["M1 chip", "10.9” Liquid Retina", "Apple Pencil (2nd gen)", "USB-C"]
+          "rows": ["M4 chip", "11” & 13” Liquid Retina", "Apple Pencil Pro", "USB-C"]
         },
         {
-          "productHandle": "ipad-pro-11in-4th-gen",
+          "productHandle": "11-inch-ipad-pro-m5-with-standard-display",
           "tagline": "Built for pros",
-          "rows": ["M2 chip", "11” ProMotion 120Hz", "Apple Pencil hover", "Thunderbolt / USB-C"]
+          "rows": ["M5 chip", "11” & 13” Ultra Retina XDR", "Apple Pencil Pro", "Thunderbolt / USB-C", "Nano-texture glass option"]
         }
       ],
       "durationMs": 12000

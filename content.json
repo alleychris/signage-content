@@ -1,5 +1,5 @@
 {
-  "version": "20260818004830",
+  "version": "20260818005520",
   "slideIntervalMs": 30000,
   "shopify": {
     "preOwnedTag": "pre-owned",
@@ -89,6 +89,7 @@
           "bestFor": "Best for most people",
           "points": [
             "Almost the Pro, for hundreds less",
+            "Beautiful screen, serious power",
             "Stays fast for years to come",
             "Turns into a laptop when needed",
             "Draw and take notes with Apple Pencil"

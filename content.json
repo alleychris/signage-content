@@ -1,6 +1,7 @@
 {
-  "version": "20260819023927",
+  "version": "20260820161406",
   "slideIntervalMs": 30000,
+  "billboardIntervalMs": 60000,
   "shopify": {
     "preOwnedTag": "pre-owned",
     "featuredNewTag": "signage-featured"
@@ -235,11 +236,10 @@
     },
     {
       "type": "promo",
-      "target": "both",
       "layout": "split",
       "label": "Trade-In",
       "title": "Trade In & Save",
-      "body": "Get credit toward a new Mac or iPad. Every trade-in starts with a free diagnostic at our Fishers store — no appointment needed.",
+      "body": "Thinking about a new Mac or iPad? Ask a team member what your current device is worth — every trade-in starts with a free, on-the-spot evaluation.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0583/1317/9306/files/tradein-hero.png?v=1773416028",
       "highlights": [
         "MacBook up to $685",
@@ -248,7 +248,8 @@
         "$50 min on Macs · $25 on iPad"
       ],
       "channels": [
-        "east"
+        "north",
+        "south"
       ]
     },
     {
@@ -333,9 +334,10 @@
         "south"
       ],
       "imageSide": "center",
-      "eyebrow": "BenQ for Mac",
+      "brand": "BenQ",
+      "eyebrow": "Designed for Mac",
       "headline": "Mac color,\nperfectly matched.",
-      "body": "Factory-calibrated 4K that syncs with your Mac — over a single USB-C cable.",
+      "body": "Factory-calibrated 4K, color-matched to your Mac — over one USB-C cable.",
       "specs": [
         "27\" & 32\"",
         "Nano Matte or Nano Gloss"
@@ -343,7 +345,7 @@
       "price": "From $580",
       "video": "https://macexperience.com/cdn/shop/videos/c/vp/2ee8d65d028e44edbe5ff62b6cfce20c/2ee8d65d028e44edbe5ff62b6cfce20c.HD-1080p-2.5Mbps-82455588.mp4",
       "videoFilter": "brightness(1.1)",
-      "videoCropBottom": 0.13,
+      "videoCropBottom": 0.2,
       "images": []
     }
   ]

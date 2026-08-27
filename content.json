@@ -1,5 +1,5 @@
 {
-  "version": "20260820161406",
+  "version": "20260827031154",
   "slideIntervalMs": 30000,
   "billboardIntervalMs": 60000,
   "shopify": {
@@ -12,6 +12,11 @@
   "services": {
     "mac": [
       {
+        "name": "Front Counter Support",
+        "price": "$14.95",
+        "note": "Per quarter-hour · first 5 minutes on us"
+      },
+      {
         "name": "Mac Check-In",
         "price": "$69.95",
         "note": "Free for any Mac with an Apple Warranty"
@@ -19,6 +24,11 @@
       {
         "name": "Data Migration",
         "price": "$49.95"
+      },
+      {
+        "name": "Data Backup",
+        "price": "$99.95",
+        "note": "Free with purchase of any drive"
       },
       {
         "name": "Data Recovery",
@@ -37,19 +47,14 @@
       {
         "name": "Malware Scan & Removal",
         "price": "$49.95"
-      },
-      {
-        "name": "Data Backup",
-        "price": "$99.95",
-        "note": "Free with purchase of any drive"
-      },
+      }
+    ],
+    "ios": [
       {
         "name": "Front Counter Support",
         "price": "$14.95",
         "note": "Per quarter-hour · first 5 minutes on us"
-      }
-    ],
-    "ios": [
+      },
       {
         "name": "iPhone or iPad Check-In",
         "price": "$29.95",
@@ -58,6 +63,11 @@
       {
         "name": "Data Migration",
         "price": "$29.95"
+      },
+      {
+        "name": "Pre-Repair Backup",
+        "price": "$39.95",
+        "note": "Temporary iCloud backup before service — even if your iCloud is full"
       },
       {
         "name": "Data Recovery",
@@ -82,11 +92,6 @@
         "name": "Charge Port Debris Removal",
         "price": "$29.95",
         "note": "For debris needing more than a quick clean"
-      },
-      {
-        "name": "Front Counter Support",
-        "price": "$14.95",
-        "note": "Per quarter-hour · first 5 minutes on us"
       }
     ]
   },

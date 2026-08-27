@@ -1,5 +1,5 @@
 {
-  "version": "20260827105309",
+  "version": "20260827131528",
   "slideIntervalMs": 30000,
   "billboardIntervalMs": 60000,
   "shopify": {
@@ -264,6 +264,7 @@
         "south"
       ],
       "imageSide": "left",
+      "badge": "NEW",
       "eyebrow": "Mac mini",
       "headline": "Little do-it-all.\nNow with M6 and M5 Pro.",
       "body": "Next-level performance in a five-inch desktop.",

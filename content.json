@@ -1,5 +1,5 @@
 {
-  "version": "20260827031154",
+  "version": "20260827105309",
   "slideIntervalMs": 30000,
   "billboardIntervalMs": 60000,
   "shopify": {
@@ -255,6 +255,25 @@
       "channels": [
         "north",
         "south"
+      ]
+    },
+    {
+      "type": "billboard",
+      "channels": [
+        "north",
+        "south"
+      ],
+      "imageSide": "left",
+      "eyebrow": "Mac mini",
+      "headline": "Little do-it-all.\nNow with M6 and M5 Pro.",
+      "body": "Next-level performance in a five-inch desktop.",
+      "specs": [
+        "Pre-order now",
+        "Ships Sept 22"
+      ],
+      "price": "From $899",
+      "images": [
+        "https://raw.githubusercontent.com/alleychris/signage-content/main/images/billboards/mini.png"
       ]
     },
     {

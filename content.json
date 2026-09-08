@@ -1,5 +1,5 @@
 {
-  "version": "20260827131528",
+  "version": "20260908125657",
   "slideIntervalMs": 30000,
   "billboardIntervalMs": 60000,
   "shopify": {
@@ -109,7 +109,7 @@
       "items": [
         {
           "label": "Mac",
-          "value": "4-6 Days",
+          "value": "5-7 Days",
           "note": "most repairs"
         },
         {
@@ -119,7 +119,7 @@
         },
         {
           "label": "iPad",
-          "value": "3-6 Days",
+          "value": "2-3 Days",
           "note": "most repairs"
         },
         {

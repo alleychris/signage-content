@@ -1,5 +1,5 @@
 {
-  "version": "20260928172342",
+  "version": "20260928172929",
   "slideIntervalMs": 30000,
   "billboardIntervalMs": 60000,
   "shopify": {
@@ -86,12 +86,12 @@
       {
         "name": "Charge Port Cleaning",
         "price": "$9.95",
-        "note": "For cleanings that take 5 minutes or less"
+        "note": "For light lint/dust removal at the counter"
       },
       {
         "name": "Charge Port Debris Removal",
         "price": "$29.95",
-        "note": "For debris needing more than a quick clean"
+        "note": "For heavier debris removal by a technician in back"
       }
     ]
   },

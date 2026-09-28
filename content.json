@@ -1,5 +1,5 @@
 {
-  "version": "20260928172929",
+  "version": "20260928190939",
   "slideIntervalMs": 30000,
   "billboardIntervalMs": 60000,
   "shopify": {
@@ -136,36 +136,45 @@
     {
       "type": "featured",
       "target": "both",
-      "layout": "deal",
+      "layout": "editorial",
       "badge": "Deal of the Day",
-      "productHandle": "airpods-pro-3rd-gen",
+      "productHandle": "airpods-4",
       "hideWhenOutOfStock": true,
-      "tagline": "Sound, reinvented.",
+      "tagline": "Iconic. Now supersonic.",
+      "callout": {
+        "heading": "A Totally Transformed Experience",
+        "body": "Just say “Siri” or “Hey Siri” to play a song, make a call, or check your schedule. And with Siri Interactions, now you can respond to Siri by simply nodding your head yes or shaking your head no. Pair AirPods 4 by simply placing them near your device and tapping Connect on your screen. Easily share a song or show between two sets of AirPods. A skin-detecting sensor knows to play audio only when you’re wearing AirPods and pauses when you take them off. And you can track down your AirPods and Charging Case with the Find My app."
+      },
       "features": [
         {
-          "icon": "noise",
-          "text": "Up to 2x more Active Noise Cancellation"
+          "icon": "feather",
+          "text": "Rebuilt for Comfort — AirPods 4 have been redesigned for exceptional all-day comfort and greater stability. With a refined contour, shorter stem, and quick-press controls for music or calls."
         },
         {
           "icon": "audio",
-          "text": "Adaptive Audio and Transparency mode"
+          "text": "Personalized Spatial Audio — Personalized Spatial Audio with dynamic head tracking places sound all around you, creating a theater-like listening experience for music, TV shows, movies, games, and more."
         },
         {
-          "icon": "hearing",
-          "text": "Hearing Test, Hearing Aid & Protection"
-        },
-        {
-          "icon": "spatial",
-          "text": "Personalized Spatial Audio with head tracking"
+          "icon": "voice",
+          "text": "Improved Sound and Call Quality — AirPods 4 feature the Apple-designed H2 chip. Voice Isolation improves the quality of phone calls in loud conditions. Using advanced computational audio, it reduces background noise while isolating and clarifying the sound of your voice for whoever you’re speaking to."
         },
         {
           "icon": "battery",
-          "text": "Up to 30 hours total with the charging case"
+          "text": "Long Battery Life — Get up to 5 hours of listening time on a single charge. And get up to 30 hours of total listening time using the case."
+        },
+        {
+          "icon": "case",
+          "text": "Redesigned Case — The Charging Case comes with USB-C charging capabilities and is more than 10 percent smaller by volume than the previous generation."
+        },
+        {
+          "icon": "water",
+          "text": "Dust, Sweat, and Water Resistant — AirPods 4 and the Charging Case are rated IP54 dust, sweat, and water resistant, so they’ll withstand rain and heavy workouts."
         }
       ],
       "channels": [
         "east"
-      ]
+      ],
+      "showVariantPrices": true
     },
     {
       "type": "comparison",

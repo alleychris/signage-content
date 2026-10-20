@@ -1,5 +1,5 @@
 {
-  "version": "20260928190939",
+  "version": "20261020134724",
   "slideIntervalMs": 30000,
   "billboardIntervalMs": 60000,
   "shopify": {
@@ -13,7 +13,7 @@
     "mac": [
       {
         "name": "Front Counter Support",
-        "price": "$14.95",
+        "price": "$24.95",
         "note": "Per quarter-hour · first 5 minutes on us"
       },
       {
@@ -52,7 +52,7 @@
     "ios": [
       {
         "name": "Front Counter Support",
-        "price": "$14.95",
+        "price": "$24.95",
         "note": "Per quarter-hour · first 5 minutes on us"
       },
       {
